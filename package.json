@@ -1,0 +1,32 @@
+{
+  "name": "camt-parser",
+  "version": "1.0.0",
+  "description": "parse camt.053 xml files ",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "xpath": "^0.0.23",
+    "xmldom": "^0.1.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oroce/camt-parser.git"
+  },
+  "keywords": [
+    "camt",
+    "xml",
+    "banking",
+    "fintech",
+    "finance"
+  ],
+  "author": "oroce <robert@oroszi.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oroce/camt-parser/issues"
+  },
+  "homepage": "https://github.com/oroce/camt-parser"
+}
